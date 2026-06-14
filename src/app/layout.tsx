@@ -20,6 +20,11 @@ export const metadata: Metadata = {
   description:
     "Publika est une agence créative spécialisée dans la création de sites web, le design graphique et la production de vidéos publicitaires.",
   keywords: "agence créative, création site web, design graphique, vidéo publicitaire",
+  icons: {
+    icon: "/favicon.png",
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
+  },
   openGraph: {
     title: "Publika — Agence Créative Premium",
     description: "Création de sites web, design graphique & vidéos publicitaires.",
