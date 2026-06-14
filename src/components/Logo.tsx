@@ -6,7 +6,7 @@ interface LogoProps {
 const sizes = {
   sm: { text: "text-2xl", dot: "text-2xl" },
   md: { text: "text-3xl", dot: "text-3xl" },
-  lg: { text: "text-4xl", dot: "text-4xl" },
+  lg: { text: "text-5xl", dot: "text-5xl" },
 };
 
 export default function Logo({ className = "", size = "md" }: LogoProps) {
